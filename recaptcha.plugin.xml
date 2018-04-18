@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>ReCAPTCHA v2</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<url>https://www.thomas-zoeger.de</url>
+	<author url="https://www.thomas-zoeger.de/">Thomas Zoeger</author>
+	<version>1.0</version>
+	<description><![CDATA[A plugin that adds a <a href="https://developers.google.com/recaptcha" target="_blank">reCAPTCHA v2</a> to comment forms for users that are not logged in and do not have a previously approved comment.]]></description>
+	<copyright>2018</copyright>
+</pluggable>
+
